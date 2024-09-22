@@ -43,7 +43,7 @@ body{
 	justify-content: center; 
 	align-items: left; 
 	flex-direction: column;
-	width: 310px;
+	width: 340px;
 	border-radius: 20px;
 	border: 1px solid var(--gray950);
 	box-shadow: 5px 5px 0 var(--gray950);
